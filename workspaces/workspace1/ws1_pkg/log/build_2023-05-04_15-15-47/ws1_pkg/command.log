@@ -1,0 +1,6 @@
+Invoking command in '/workspaces/workspace1/ws1_pkg/build/ws1_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /workspaces/workspace1/ws1_pkg -DCMAKE_INSTALL_PREFIX=/workspaces/workspace1/ws1_pkg/install/ws1_pkg
+Invoked command in '/workspaces/workspace1/ws1_pkg/build/ws1_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /workspaces/workspace1/ws1_pkg -DCMAKE_INSTALL_PREFIX=/workspaces/workspace1/ws1_pkg/install/ws1_pkg
+Invoking command in '/workspaces/workspace1/ws1_pkg/build/ws1_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /workspaces/workspace1/ws1_pkg/build/ws1_pkg -- -j4 -l4
+Invoked command in '/workspaces/workspace1/ws1_pkg/build/ws1_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /workspaces/workspace1/ws1_pkg/build/ws1_pkg -- -j4 -l4
+Invoking command in '/workspaces/workspace1/ws1_pkg/build/ws1_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /workspaces/workspace1/ws1_pkg/build/ws1_pkg
+Invoked command in '/workspaces/workspace1/ws1_pkg/build/ws1_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /workspaces/workspace1/ws1_pkg/build/ws1_pkg

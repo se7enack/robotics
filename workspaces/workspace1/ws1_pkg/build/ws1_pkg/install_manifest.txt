@@ -1,0 +1,15 @@
+/workspaces/workspace1/ws1_pkg/install/ws1_pkg/share/ament_index/resource_index/package_run_dependencies/ws1_pkg
+/workspaces/workspace1/ws1_pkg/install/ws1_pkg/share/ament_index/resource_index/parent_prefix_path/ws1_pkg
+/workspaces/workspace1/ws1_pkg/install/ws1_pkg/share/ws1_pkg/environment/ament_prefix_path.sh
+/workspaces/workspace1/ws1_pkg/install/ws1_pkg/share/ws1_pkg/environment/ament_prefix_path.dsv
+/workspaces/workspace1/ws1_pkg/install/ws1_pkg/share/ws1_pkg/environment/path.sh
+/workspaces/workspace1/ws1_pkg/install/ws1_pkg/share/ws1_pkg/environment/path.dsv
+/workspaces/workspace1/ws1_pkg/install/ws1_pkg/share/ws1_pkg/local_setup.bash
+/workspaces/workspace1/ws1_pkg/install/ws1_pkg/share/ws1_pkg/local_setup.sh
+/workspaces/workspace1/ws1_pkg/install/ws1_pkg/share/ws1_pkg/local_setup.zsh
+/workspaces/workspace1/ws1_pkg/install/ws1_pkg/share/ws1_pkg/local_setup.dsv
+/workspaces/workspace1/ws1_pkg/install/ws1_pkg/share/ws1_pkg/package.dsv
+/workspaces/workspace1/ws1_pkg/install/ws1_pkg/share/ament_index/resource_index/packages/ws1_pkg
+/workspaces/workspace1/ws1_pkg/install/ws1_pkg/share/ws1_pkg/cmake/ws1_pkgConfig.cmake
+/workspaces/workspace1/ws1_pkg/install/ws1_pkg/share/ws1_pkg/cmake/ws1_pkgConfig-version.cmake
+/workspaces/workspace1/ws1_pkg/install/ws1_pkg/share/ws1_pkg/package.xml

@@ -38,4 +38,8 @@ RUN truncate -s0 /tmp/preseed.cfg; \
 
 RUN echo 'source /opt/ros/humble/setup.bash' >> ~/.bashrc
 
+RUN echo 'source /workspaces/workspace1/ws1_pkg/install/setup.bash' >> ~/.bashrc
+
+WORKDIR /workspaces
+
 ENTRYPOINT ["/bin/bash"]
