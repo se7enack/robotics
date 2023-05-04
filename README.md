@@ -1,7 +1,7 @@
-# robotics
+# Robotics
 
 
-# To start:
+#### to start:
 
 	docker build . -t robotics                                                     
 
@@ -10,16 +10,16 @@
 	python3 /workspaces/workspace1/ws1_pkg/scripts/script.py &
 
 
-# Verify up:
+#### verify up:
 
 	ros2 node list
-
-    ros2 topic list
+	
+	ros2 topic list
 
    
 
-# To stop:
+#### to stop:
 
-   		fg
+	fg
 
-   		<Ctrl>+c
+	<Ctrl>+c
