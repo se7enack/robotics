@@ -15,8 +15,9 @@
 	ros2 node list
 	
 	ros2 topic list
-
-   
+	
+	ros2 topic echo /hello_world
+	
 
 #### to stop:
 
