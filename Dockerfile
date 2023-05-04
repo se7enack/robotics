@@ -33,6 +33,7 @@ RUN truncate -s0 /tmp/preseed.cfg; \
     apt-get update && \
 	apt-get install -y \
 	ros-humble-ros-base \
+	ros-humble-desktop \
 	ros-dev-tools
 
 RUN echo 'source /opt/ros/humble/setup.bash' >> ~/.bashrc
