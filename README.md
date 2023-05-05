@@ -15,7 +15,7 @@
 	python3 /workspaces/workspace1/ws1_pkg/scripts/subscriber.py
 
 
-#### check node and tpoic:
+#### check node and topic:
 
 	ros2 node list
 	
